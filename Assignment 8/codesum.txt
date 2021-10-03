@@ -1,0 +1,1 @@
+The sum of first two chars in the file is: 196
