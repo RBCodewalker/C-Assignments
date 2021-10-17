@@ -18,11 +18,11 @@ p5: Guessing_game.cpp
 p6: a9_p6.cpp
 	g++ -Wall -o p6 a9_p6.cpp
   
-  p1: a9_p7.cpp
+p7: a9_p7.cpp
 	g++ -Wall -o p7 a9_p7.cpp
 
-p2: a9_p8.cpp
+p8: a9_p8.cpp
 	g++ -Wall -o p8 a9_p8.cpp
 
-p3: a9_p9.cpp
-	g++ -Wall -o p9 a1_p9.cpp
+p9: a9_p9.cpp
+	g++ -Wall -o p9 a9_p9.cpp
