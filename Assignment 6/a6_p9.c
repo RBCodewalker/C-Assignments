@@ -53,7 +53,7 @@ struct list *push_back(struct list *my_list, int value)
 
 struct list* add_pos(struct list* head, int p, int val)
 {
-    struct list* nl;
+    struct list * nl;
     nl = head;
     int c = 1;
 
