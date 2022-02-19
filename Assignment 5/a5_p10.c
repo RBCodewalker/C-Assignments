@@ -25,7 +25,6 @@ int main()
 {
     int n;
     scanf("%d", &n); // input values for integer n
-
     cntdn(n); // calling the cntdn function
     return 0;
 }
