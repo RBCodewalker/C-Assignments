@@ -16,8 +16,7 @@ void cntdn(int x)
     else
     {
         printf("%d ", x);
-        cntdn(x - 1); 
-        // use of recursion for countdown
+        cntdn(x - 1); // use of recursion for countdown
     }
 }
 
